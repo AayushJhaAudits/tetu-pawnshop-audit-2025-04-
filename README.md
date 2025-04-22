@@ -51,7 +51,7 @@ function redeem(uint id) external nonReentrant override {
     _transferCollateral(...);
     _endPosition(pos);  // State change last
 }
-
+```
 
 ## 📬 Contact Me
 
